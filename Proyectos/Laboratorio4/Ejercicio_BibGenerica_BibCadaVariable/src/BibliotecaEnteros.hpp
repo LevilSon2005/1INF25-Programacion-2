@@ -1,0 +1,12 @@
+//
+// Created by binny on 30/09/2025.
+//
+
+#ifndef EJERCICIO_BIBGENERICA_BIBCADAVARIABLE_BIBLIOTECAENTEROS_HPP
+#define EJERCICIO_BIBGENERICA_BIBCADAVARIABLE_BIBLIOTECAENTEROS_HPP
+
+#include "Utils.hpp"
+void* leer_dato_int(ifstream&);
+void imprimir_nodo_int(const void*, ofstream&);
+
+#endif //EJERCICIO_BIBGENERICA_BIBCADAVARIABLE_BIBLIOTECAENTEROS_HPP
